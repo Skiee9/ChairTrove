@@ -1,4 +1,4 @@
-# ChairTrove
+
 # Chair Project - HTML & CSS Showcase
 
 Welcome to the Chair Project! This project is a showcase of different chair designs created using HTML and CSS.
